@@ -9,9 +9,9 @@ Energy providers and sustainability officers face a critical trade-off between:
  -Using cheap non-renewable energy, which is cost-effective but environmentally harmful.
 This dashboard quantifies both aspects—cost and sustainability—so decision-makers can plan more responsibly.
 ## Tools Used
- - **Power BI** – Data visualization, YoY analysis, DAX measures, seasonality analysis
- -** Card, Bar, Line, and Candlesticks Charts** – for breakdowns across time and location
- - **Conditional formatting & tooltips** – to highlight trends and compare city performance
+ - Power BI – Data visualization, YoY analysis, DAX measures, seasonality analysis
+ - Card, Bar, Line, and Candlesticks Charts** – for breakdowns across time and location
+ - Conditional formatting & tooltips – to highlight trends and compare city performance
 ## Process Summary
 **Data Preparation:**
  - Imported monthly and seasonal energy usage across 3 cities
