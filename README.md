@@ -13,10 +13,10 @@ This dashboard quantifies both aspects—cost and sustainability—so decision-m
  - Card, Bar, Line, and Candlesticks Charts – for breakdowns across time and location
  - Conditional formatting & tooltips – to highlight trends and compare city performance
 ## Process Summary
-**Data Preparation:**
+Data Preparation:
  - Imported monthly and seasonal energy usage across 3 cities.
  - Calculated renewable share, emission factors, and cost per kWh.
-**Dashboard Development:**
+Dashboard Development:
 - Built key metrics cards (Total kWh, cost, emissions, share %)
 - Visualized YoY change for cities using error bars and growth indicators
 - Trend lines for monthly consumption
