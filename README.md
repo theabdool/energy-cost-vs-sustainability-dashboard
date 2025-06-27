@@ -10,12 +10,12 @@ Energy providers and sustainability officers face a critical trade-off between:
 This dashboard quantifies both aspects—cost and sustainability—so decision-makers can plan more responsibly.
 ## Tools Used
  - Power BI – Data visualization, YoY analysis, DAX measures, seasonality analysis
- - Card, Bar, Line, and Candlesticks Charts** – for breakdowns across time and location
+ - Card, Bar, Line, and Candlesticks Charts – for breakdowns across time and location
  - Conditional formatting & tooltips – to highlight trends and compare city performance
 ## Process Summary
 **Data Preparation:**
- - Imported monthly and seasonal energy usage across 3 cities
- - Calculated renewable share, emission factors, and cost per kWh
+ - Imported monthly and seasonal energy usage across 3 cities.
+ - Calculated renewable share, emission factors, and cost per kWh.
 **Dashboard Development:**
 - Built key metrics cards (Total kWh, cost, emissions, share %)
 - Visualized YoY change for cities using error bars and growth indicators
